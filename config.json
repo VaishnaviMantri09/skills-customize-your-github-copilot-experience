@@ -73,5 +73,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "search-and-sort",
+      "title": "Search & Sort Challenges",
+      "description": "Implement and compare search and sorting algorithms; analyze runtime and choose appropriate algorithms for different inputs.",
+      "path": "assignments/search-and-sort",
+      "dueDate": "2026-06-26",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
